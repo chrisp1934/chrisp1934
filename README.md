@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Christopher Priebe and I am an senior in Electrical Engineering at Purdue University.
+- 👋 Hi, my name is Christopher Priebe and I am a senior in Electrical Engineering at Purdue University.
 - 👀 I’m interested in computer architecture, hardware emulation, and algorithms.
 - 🌱 I’m currently learning C++ through a course at Purdue University (ECE 39595).
 - 📫 You can reach me at christophermpriebe@gmail.com
